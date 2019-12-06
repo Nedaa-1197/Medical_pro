@@ -1,0 +1,556 @@
+body{
+	
+	margin: 0px;
+	padding: 0px;
+
+	
+}
+#backIMG{
+	background-image: url(http://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/lady.jpg?id=17) !important;
+ 	background-size: 100% ;
+ 	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position:center;
+}
+header{
+	margin: 10px;
+	height: 50px;
+	width: 100%;
+	margin-left: 50px;
+	display: inline-block;
+	
+}
+#img1{
+	float: left;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+header nav{
+ 	float: right;
+ 	padding: 10px 50px;
+ 	 }
+ header nav a{
+ 	clear: both;
+ 	text-decoration: none;
+ 	text-align: right;
+ 	color: black;
+ 	padding: 2px;
+ 	color: #363636;
+ 	font-size: 20px;
+ }
+
+header nav img{
+ 	width: 30px;
+ 	height: 30px;
+ 	padding: 2px;
+ 	float: right;
+ 	margin-right: 10px;
+
+ 	
+
+ }
+ #divStyle{
+ 	clear: both;
+ 	height: 300px;
+ 	margin-top: 100px;
+ 	margin-left: 80px;
+ }
+ .spn1{
+ 	font-size: 50px;
+ 	font-family: "Franklin Gothic Medium";
+ 	color: #383838;
+ 	text-align: left;
+ 	display: block;
+ }
+ #H4Style{
+ 	    font-family: "Century Gothic";
+ }
+
+ #divStyle div img{
+ 	margin-top: 40px;
+ }
+ 
+
+  #organize{
+
+  	width: 100%;
+  	margin: 20px 100px 10px 70px;
+  	display: table;
+
+
+  }
+  .orgDiv{
+  	
+  	width: 28%;
+  	height: 400px;
+  	
+  	text-align: left;
+  	padding: 10px;
+  	border-radius: 20px;
+  	float: left;
+  	margin-left:1px;
+
+  	
+  }
+  .org{
+  	clear: both;
+  	width: 30px;
+  	height: 30px;
+  	margin-left: 20px;
+  	margin-top: 70px;
+  }
+  #colorDiv2{
+  	background-color: #a4dbf5;
+  	border: 2px solid #a4dbf5;
+  	margin-top: 25px;
+
+  }
+
+  #colorDiv1{
+  	background-color: #c7ebfc;
+  	border: 2px solid #c7ebfc;
+  	height: 430px;
+  	margin-bottom: 70px;
+
+  }
+  #colorDiv3{
+  	background-color: #a4dbf5;
+  	border: 2px solid #a4dbf5;
+  	margin-top: 25px;
+
+  }
+  button{
+  	width: 100px;
+  	height: 50px;
+  	background-color: white;
+  	border-radius: 25px;
+  	border:0px solid #fff;
+  	font-family: "Arial";
+  }
+
+  .h2Div{
+  	display: inline-block;
+  	font-size: 35px;
+  }
+  .pStyle{
+  	font-family:"Calibri";
+  	font-size: 15px;
+    color: #0078aa;
+  }
+  #p2Style{
+  	font-size: 15px;
+    color: #363636;
+    font-family: "Garamond";
+    width: 400px;
+  }
+  
+
+  #divLab{
+  	width: 100%;
+  	display: inline-block;
+  }
+
+  #imgLab{
+  	margin-top: 80px;
+  	width: 50%;
+  	height: 496px;
+  }
+
+  #divAbout{
+  	float: right;
+  	width: 47%;
+  	margin-top: 80px;
+
+  
+  }
+
+  #divButton{
+  	clear: both;
+  	display: inline-block;
+  	margin: 0px;
+  }
+
+  h4{
+
+  	font-family: "Montserrat";
+    color: #363636;
+    font-weight: 400;
+   	font-size: 12px;
+   	margin: 0px;
+  }
+
+  .buttonStyle{
+  	width: 400px;
+  	height: 70px;
+  	margin: 2px;
+  	padding: 20px;
+  	font-family: "Verdana";
+    color: #fff;
+    font-weight: 400;
+   	font-size: 12px;
+  	text-align: left;
+  	border-radius: 10px;
+  	background-color: #27f5cf;
+  }
+
+  .divHow{
+  	padding: 50px;
+    background-image: url(http://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/Rectangle-827-copy-2.jpg?id=72) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+  }
+
+  .divHow2{
+  
+  	text-align:center;
+  }
+  #How1{
+  	font-size: 30px;
+    font-weight: 700!important;
+ }
+ #hHow2{
+ 	font-size: 12px;
+    font-weight: 400!important;
+    color: #363636;
+
+ }
+ #divBig{
+ 	background-color: #fff;
+ 	padding: 20px;
+ 	height: 600px;
+ 	margin: 10px 20px 10px 20px;
+ }
+ .Big1{
+ 	display: inline-block;
+ 	width: 30%;
+ }
+ .Big2{
+ 	display: inline-block;
+ 	width: 30%;
+ }
+
+ #allDiv{
+ 	display: inline-block;
+ }
+ #pDiv{
+ 	float: left;
+ 	width: 40%;
+ 	font-family: "Montserrat";
+    color: #363636;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 150px;
+    text-align: left;
+ }
+ #h2Div{
+ 	clear: both;
+ 	font-size: 15px;
+ 	font-family: "Franklin Gothic Medium";
+
+ }
+ 
+
+ #imgDiv{
+ 	float: right;
+ 	width: 40%;
+ 	margin-right: 20px;
+ }
+ #imgDiv2{
+ 	clear: both;
+ 	width: 960px;
+ 	height: 705px;
+ }
+ #btnDiv{
+    width: 200px;
+  	height: 40px;
+  	margin-top: 60px;
+  	font-family: "Candara";
+   	font-size: 15px;
+  	text-align: center;
+  	border-radius: 50px;
+  	background-color: #51e8b6;
+  	color: #fff;
+  }
+
+  #moreC{
+  	padding-top: 40px;
+    padding-bottom: 100px;
+    background-color: #f4f4f4;
+    display: inline-block;
+
+    width: 100%;
+  }
+
+  .moreD{
+  	width: 23%;
+  	text-align: center;
+  	display: inline-block;
+  }
+
+  .count{
+  	color: #505050;
+  	font-size: 55px;
+  	padding: 15px;
+  	font-family: "Franklin Gothic Medium";
+    text-align: center;
+  }
+
+  hr{
+  	border:thin #47c9e5 solid;
+  	width: 10%;
+  }
+  .word1{
+  	color: #505050;
+  	font-size: 18px;
+  	font-family: "Segoe UI";
+  }
+
+  .word2{
+  	color: #505050;
+  	font-size: 18px;
+  	font-family: "Segoe UI";
+  }
+  
+  #new{
+  	width: 100%;
+  	height: 800px;
+    background-image: url('http://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/BG.jpg?id=7');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 120px !important;
+  }
+
+  #h21{
+  	font-size: 36px;
+    font-family: "Calibri";
+    color: #363636;
+    text-align: center;
+  }
+
+  #h22{
+  	font-size: 15px;
+    font-family: "Calibri";
+    color: #363636;
+    margin-bottom: 20px;
+    text-align: center;
+
+  }
+
+  .comp{
+  	width: 25%;
+  	height: 600px;
+  	text-align: center;
+  	padding: 15px;
+  	background-color: #d4fdfe;
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 40px;
+  
+  }
+  .comp div div span{
+  	clear: both;
+  	text-align: center;
+  	padding: 10px;
+  }
+  #comp2{
+  	background-color: #fff;
+  	height: 800px;
+  }
+  .comp div a button span{
+  	text-align: center;
+  	text-decoration: none;
+  	background-color: #fff;
+  }
+  #div6comp{
+  	float: center;
+  	margin-left: 150px;
+
+  }
+  #divNew{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+  #divSTY{
+  	clear: both;
+  	float: left;
+  	display: inline-block;
+  	width: 40%;
+    margin-left: 50px;
+    margin-bottom: 80px;
+  	
+
+  }
+  #div2STY{
+    width: 40%;
+    float: right;
+    margin-bottom: 40px;
+  }
+  #h2STY{
+  		
+  	font-size: 36px;
+  	text-align: left;
+  	font-family: "Roboto";
+    color: #363636;
+    padding: 0px;
+  }
+
+  #h1STY{
+  	font-size: 36px;
+  	font-family: "Roboto";
+    color: #363636;
+    padding: 0px;
+  }
+  #btnSTY{
+  	color: #363636;
+    border: 2px solid #3ce2ad;
+    background-color: #3ce2ad;
+    padding: 0px;
+    width: 50%;
+  }
+  #btnSTY: hovder{
+  	color: #363636;
+    border: 2px solid #3ce2ad;
+    background-color: #fff;
+  }
+  .buttonStyle2{
+  	width: 400px;
+  	height: 70px;
+  	padding: 10px;
+    margin: 3px;
+  	font-family: "Montserrat";
+    color: black;
+   	font-size: 12px;
+  	text-align: left;
+  	border-radius: 10px;
+  	background-color:  #e8eaed;
+  	}
+  .div2{
+  	clear: both;
+  	width: 50%;
+  }
+
+  #bothDiv{
+  	width: 100%
+  	height:80%;
+  }
+  #mapDiv{
+  	
+  	border:0px;
+  	margin-top: 50px;
+  	position: relative;
+
+  }
+iframe{
+	width: 100%;
+	height: 500px;
+}
+  #oneDiv{
+  	width: 100%;
+  	height: 20%;
+  	display: inline-block;
+  	margin: 0px;
+  	background-color: #dcdce3;
+
+  }
+  .one{
+  	width: 20%;
+  	padding: 5px;
+  	margin-left: 20px;
+  	display: inline-block;
+
+  }
+  .oneImg{
+    width: 25px;
+    height: 25px;
+    float: left;
+    display: inline-block;
+  	  }
+  .oneNew{
+    float: right;
+    display: inline-block;
+  }
+  #form1{
+  	float: right;
+  	width: 50%;
+  	text-align: center;
+  }
+  .INP{
+  	border-bottom-width: 1px;
+  	padding: 5px;
+    font-size: 13px;
+    margin: 0px;
+
+
+  }
+  .pp{
+  	width: 300px;
+  	height: 50px;
+    border:none;
+  	text-align: center;
+  	border-bottom: 1px solid black;
+  }
+  #inpH2{
+  	font-family: "Roboto";
+    color: #363636;
+  }
+  #inpH22{
+  	font-size: 15px;
+    color: #47c9e5;
+  }
+  #inpButton{
+  	background-color:#47c9e5;
+  	padding: 0px; 
+  }
+  #my{
+  	float: left;
+  	width: 50%;
+  	display:block;
+  }
+  .my1{
+    background-image: url('https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/23/2018/09/Rounded-Rectangle-1202-copy-21.jpg');
+  	display: inline-block;
+  	margin-top: 20px;
+  	width: 300px;
+    height: 600px;
+    margin-left: 15px;
+  }
+  .my2{
+  	text-align: center;
+  	margin-top: 60px;
+  }
+  footer{
+  	clear: both;
+  	background-color: black;
+  }
+  #NNN > div{
+  	float: left;
+  	color: #fff;
+  	width: 23%;
+  	margin: 65px;
+  	display: inline-block;
+
+  }
+  
+  .hr1{
+  	clear: both;
+  	width: 100%;
+    border:0.5px solid #dcdcf2;
+  }
+
+  .a{
+  	text-decoration: none;
+  	color: #bbbbbb;
+  }
+  #footDiv{
+  	clear: both;
+  	text-align: center;
+  	background-color: #7c7d7c;
+  	height: 70px;
+  	padding: 10px;
+  }
+ 
